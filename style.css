@@ -30,3 +30,8 @@
     display: inline;
     cursor: pointer;
 }
+#core button{
+    margin-top: 40px;
+    width: 500px;margin-left: 50px;background-color: green;
+   
+}
